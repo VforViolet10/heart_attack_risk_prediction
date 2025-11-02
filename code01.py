@@ -67,13 +67,13 @@
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/diffs-f9a50c895aad.js"></script>
   
 
-  <title>jupyter-notebook/Project.py at main · VforViolet10/jupyter-notebook</title>
+  <title>jupyter-notebook/code01 at code · VforViolet10/jupyter-notebook</title>
 
 
 
     
 
-  <meta name="request-id" content="2E43:386A:104A0E2:1395DA7:63569C81" data-turbo-transient="true" /><meta name="html-safe-nonce" content="18ce22f4506dcac60b501ee9c4f5febcfa402d987584f964e6188f0d30ddb76b" data-turbo-transient="true" /><meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vZ2l0aHViLmNvbS9WZm9yVmlvbGV0MTAvanVweXRlci1ub3RlYm9vay90cmVlL21haW4iLCJyZXF1ZXN0X2lkIjoiMkU0MzozODZBOjEwNEEwRTI6MTM5NURBNzo2MzU2OUM4MSIsInZpc2l0b3JfaWQiOiIzNDIwMzU0NzkwNDQ1ODMyMjM1IiwicmVnaW9uX2VkZ2UiOiJjZW50cmFsaW5kaWEiLCJyZWdpb25fcmVuZGVyIjoiaWFkIn0=" data-turbo-transient="true" /><meta name="visitor-hmac" content="5334b35f3f441fb7c2ea7e8cd37c21193f04724aed92032ed121133164f50de4" data-turbo-transient="true" />
+  <meta name="request-id" content="2E43:386A:104A6B5:13964EB:63569CAD" data-turbo-transient="true" /><meta name="html-safe-nonce" content="18ce22f4506dcac60b501ee9c4f5febcfa402d987584f964e6188f0d30ddb76b" data-turbo-transient="true" /><meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vZ2l0aHViLmNvbS9WZm9yVmlvbGV0MTAvanVweXRlci1ub3RlYm9vay90cmVlL2NvZGUiLCJyZXF1ZXN0X2lkIjoiMkU0MzozODZBOjEwNEE2QjU6MTM5NjRFQjo2MzU2OUNBRCIsInZpc2l0b3JfaWQiOiIzNDIwMzU0NzkwNDQ1ODMyMjM1IiwicmVnaW9uX2VkZ2UiOiJjZW50cmFsaW5kaWEiLCJyZWdpb25fcmVuZGVyIjoiaWFkIn0=" data-turbo-transient="true" /><meta name="visitor-hmac" content="deb7eafcd870ccc24607ac685e8f68c4a75eb129cdedbe4a165e88f0ecc18881" data-turbo-transient="true" />
 
     <meta name="hovercard-subject-tag" content="repository:556117727" data-turbo-transient>
 
@@ -111,11 +111,11 @@
     <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
     <meta property="fb:app_id" content="1401488693436528">
     <meta name="apple-itunes-app" content="app-id=1477376905" />
-      <meta name="twitter:image:src" content="https://avatars.githubusercontent.com/u/116449605?s=400&amp;v=4" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary" /><meta name="twitter:title" content="jupyter-notebook/Project.py at main · VforViolet10/jupyter-notebook" /><meta name="twitter:description" content="Contribute to VforViolet10/jupyter-notebook development by creating an account on GitHub." />
-      <meta property="og:image" content="https://avatars.githubusercontent.com/u/116449605?s=400&amp;v=4" /><meta property="og:image:alt" content="Contribute to VforViolet10/jupyter-notebook development by creating an account on GitHub." /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="jupyter-notebook/Project.py at main · VforViolet10/jupyter-notebook" /><meta property="og:url" content="https://github.com/VforViolet10/jupyter-notebook" /><meta property="og:description" content="Contribute to VforViolet10/jupyter-notebook development by creating an account on GitHub." />
+      <meta name="twitter:image:src" content="https://avatars.githubusercontent.com/u/116449605?s=400&amp;v=4" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary" /><meta name="twitter:title" content="jupyter-notebook/code01 at code · VforViolet10/jupyter-notebook" /><meta name="twitter:description" content="Contribute to VforViolet10/jupyter-notebook development by creating an account on GitHub." />
+      <meta property="og:image" content="https://avatars.githubusercontent.com/u/116449605?s=400&amp;v=4" /><meta property="og:image:alt" content="Contribute to VforViolet10/jupyter-notebook development by creating an account on GitHub." /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="jupyter-notebook/code01 at code · VforViolet10/jupyter-notebook" /><meta property="og:url" content="https://github.com/VforViolet10/jupyter-notebook" /><meta property="og:description" content="Contribute to VforViolet10/jupyter-notebook development by creating an account on GitHub." />
       
     <link rel="assets" href="https://github.githubassets.com/">
-      <link rel="shared-web-socket" href="wss://alive.github.com/_sockets/u/116449605/ws?session=eyJ2IjoiVjMiLCJ1IjoxMTY0NDk2MDUsInMiOjk3NzU4MTc2MywiYyI6Mzc5MjkzMzQ5NiwidCI6MTY2NjYyMDU2NH0=--bd48c5de33ccf8af26594e7434c06ad702dd6b3d4c22eabdfc26d26eed64ba53" data-refresh-url="/_alive" data-session-id="5c0c3b9768634912b0cd8a61bbb69830b92d7a30bd8988af275d7b39c5727736">
+      <link rel="shared-web-socket" href="wss://alive.github.com/_sockets/u/116449605/ws?session=eyJ2IjoiVjMiLCJ1IjoxMTY0NDk2MDUsInMiOjk3NzU4MTc2MywiYyI6NjUwNzc0NzAzLCJ0IjoxNjY2NjIwNTk0fQ==--c880ce9bef615e6c1895c6b0a0db654e7ef976c2415267b6ea0a2a4e4ac40644" data-refresh-url="/_alive" data-session-id="5c0c3b9768634912b0cd8a61bbb69830b92d7a30bd8988af275d7b39c5727736">
       <link rel="shared-web-socket-src" href="/assets-cdn/worker/socket-worker-b87581f5816c.js">
 
 
@@ -145,7 +145,7 @@
 
 
 
-    <link rel="canonical" href="https://github.com/VforViolet10/jupyter-notebook/blob/main/Project.py" data-turbo-transient>
+    <link rel="canonical" href="https://github.com/VforViolet10/jupyter-notebook/blob/code/code01" data-turbo-transient>
   <meta name="turbo-body-classes" content="logged-in env-production page-responsive page-blob">
 
 
@@ -236,7 +236,7 @@
           spellcheck="false"
           autocomplete="off"
         >
-        <input type="hidden" value="a-STIpo-u3wJP5EHk592y-9sVPN_zHj5Cm4siAOtnslD5FNp_t-2EICtfdVIAEhE_t52qtlUXWLZ3WFmmrDqfA" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" />
+        <input type="hidden" value="VWI6S9d1QNj5iQ8catzaxmMLeDhoNrCrUuVoUMHPSg59YvoAs5RNtHAb486xQ-RJcrlaYc6ulTCBViW-WNI-uw" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" />
         <input type="hidden" class="js-site-search-type-field" name="type" >
             <svg xmlns="http://www.w3.org/2000/svg" width="22" height="20" aria-hidden="true" class="mr-1 header-search-key-slash"><path fill="none" stroke="#979A9C" opacity=".4" d="M3.5.5h12c1.7 0 3 1.3 3 3v13c0 1.7-1.3 3-3 3h-12c-1.7 0-3-1.3-3-3v-13c0-1.7 1.3-3 3-3z"></path><path fill="#979A9C" d="M11.8 6L8 15.1h-.9L10.8 6h1z"></path></svg>
 
@@ -435,7 +435,7 @@
 
   <a class="js-selected-navigation-item Header-link mt-md-n3 mb-md-n3 py-2 py-md-3 mr-0 mr-md-3 border-top border-md-top-0 border-white-fade" data-ga-click="Header, click, Nav menu - item:explore" data-turbo="false" data-selected-links="/explore /trending /trending/developers /integrations /integrations/feature/code /integrations/feature/collaborate /integrations/feature/ship showcases showcases_search showcases_landing /explore" href="/explore">Explore</a>
 
-      <a class="js-selected-navigation-item Header-link d-block d-md-none py-2 py-md-3 border-top border-md-top-0 border-white-fade" data-ga-click="Header, click, Nav menu - item:Sponsors" data-hydro-click="{&quot;event_type&quot;:&quot;sponsors.button_click&quot;,&quot;payload&quot;:{&quot;button&quot;:&quot;HEADER_SPONSORS_DASHBOARD&quot;,&quot;sponsorable_login&quot;:&quot;VforViolet10&quot;,&quot;originating_url&quot;:&quot;https://github.com/VforViolet10/jupyter-notebook/blob/main/Project.py&quot;,&quot;user_id&quot;:116449605}}" data-hydro-click-hmac="f4eb088bd28cd10442c80fe1cde62ea0ed3f3f163ed05c9102b50b984a1dafff" data-turbo="false" data-selected-links=" /sponsors/accounts" href="/sponsors/accounts">Sponsors</a>
+      <a class="js-selected-navigation-item Header-link d-block d-md-none py-2 py-md-3 border-top border-md-top-0 border-white-fade" data-ga-click="Header, click, Nav menu - item:Sponsors" data-hydro-click="{&quot;event_type&quot;:&quot;sponsors.button_click&quot;,&quot;payload&quot;:{&quot;button&quot;:&quot;HEADER_SPONSORS_DASHBOARD&quot;,&quot;sponsorable_login&quot;:&quot;VforViolet10&quot;,&quot;originating_url&quot;:&quot;https://github.com/VforViolet10/jupyter-notebook/blob/code/code01&quot;,&quot;user_id&quot;:116449605}}" data-hydro-click-hmac="13785f91a2be7208e5e8a8a2c4c395e068e552aed57e2339d36eb5ffe6cf8e30" data-turbo="false" data-selected-links=" /sponsors/accounts" href="/sponsors/accounts">Sponsors</a>
 
     <a class="Header-link d-block d-md-none mr-0 mr-md-3 py-2 py-md-3 border-top border-md-top-0 border-white-fade" data-turbo="false" href="/settings/profile">Settings</a>
 
@@ -443,7 +443,7 @@
       <img class="avatar avatar-user" loading="lazy" decoding="async" src="https://avatars.githubusercontent.com/u/116449605?s=40&amp;v=4" width="20" height="20" alt="@VforViolet10" />
       VforViolet10
 </a>
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-turbo="false" action="/logout" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="TLJvjXONxsW-TzjH6_yHVpC1Ya-u_sssjJVzDeVEcRWpLDRRfSJPAgO7EpOIqomIl4gQUJ6Hs_hLejUUAc3Iuw" />
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-turbo="false" action="/logout" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="jrgSR62WUEzy6dyWfa0ofDyP4aIIRa8EZ3Usg0jfdm9rJkmboznZi08d9sIe-yaiO7KQXTg819CgmmqarFbPwQ" />
       <button
         type="submit"
         class="Header-link mr-0 mr-md-3 py-2 py-md-3 border-top border-md-top-0 border-white-fade d-md-none btn-link d-block width-full text-left"
@@ -478,7 +478,7 @@
     <div class="Header-item mr-0 mr-md-3 flex-order-1 flex-md-order-none">
         
 
-<notification-indicator data-channel="eyJjIjoibm90aWZpY2F0aW9uLWNoYW5nZWQ6MTE2NDQ5NjA1IiwidCI6MTY2NjYyMDU2NH0=--da4fba513ea0be5237ec07343c6689548004503e3d4f26d12469820e4e401ffa" data-indicator-mode="none" data-tooltip-global="You have unread notifications" data-tooltip-unavailable="Notifications are unavailable at the moment." data-tooltip-none="You have no unread notifications" data-view-component="true" class="js-socket-channel">
+<notification-indicator data-channel="eyJjIjoibm90aWZpY2F0aW9uLWNoYW5nZWQ6MTE2NDQ5NjA1IiwidCI6MTY2NjYyMDU5NH0=--8252785014e95d56538ca125b7daa79746f745de0098511d0668d85388c35911" data-indicator-mode="none" data-tooltip-global="You have unread notifications" data-tooltip-unavailable="Notifications are unavailable at the moment." data-tooltip-none="You have no unread notifications" data-view-component="true" class="js-socket-channel">
   <a id="AppHeader-notifications-button" href="/notifications"
     class="Header-link notification-indicator position-relative tooltipped tooltipped-sw"
 
@@ -633,7 +633,7 @@
   <details-dialog class="command-palette-details-dialog d-flex flex-column flex-justify-center height-fit" aria-label="command palette">
     <command-palette
       class="command-palette color-bg-default rounded-3 border color-shadow-small"
-      return-to=/VforViolet10/jupyter-notebook/blob/main/Project.py
+      return-to=/VforViolet10/jupyter-notebook/blob/code/code01
       user-id="116449605"
       activation-hotkey="Mod+k,Mod+Alt+k"
       command-mode-hotkey="Mod+Shift+k"
@@ -1599,7 +1599,7 @@
         data-action="toggle:notifications-list-subscription-form#detailsToggled"
       >
 
-        <summary data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;WATCH_BUTTON&quot;,&quot;repository_id&quot;:556117727,&quot;originating_url&quot;:&quot;https://github.com/VforViolet10/jupyter-notebook/blob/main/Project.py&quot;,&quot;user_id&quot;:116449605}}" data-hydro-click-hmac="de14419e312cc1b7cb29c78884bb67cf99d19109ab624b21b38af565195133aa" data-ga-click="Repository, click Watch settings, action:blob#show" aria-label="Notification settings" data-view-component="true" class="btn-sm btn">    <span data-menu-button>
+        <summary data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;WATCH_BUTTON&quot;,&quot;repository_id&quot;:556117727,&quot;originating_url&quot;:&quot;https://github.com/VforViolet10/jupyter-notebook/blob/code/code01&quot;,&quot;user_id&quot;:116449605}}" data-hydro-click-hmac="cf95ccce4cb2abf19c62826116a2df33a2777dd3ee9d58f76db87021bd240ded" data-ga-click="Repository, click Watch settings, action:blob#show" aria-label="Notification settings" data-view-component="true" class="btn-sm btn">    <span data-menu-button>
             <span
               
               
@@ -1651,7 +1651,7 @@
             </header>
 
             <div class="SelectMenu-list">
-              <form data-target="notifications-list-subscription-form.form" data-action="submit:notifications-list-subscription-form#submitForm" data-turbo="false" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="bZuRTGIxNyIVQ7hb_OQnnatdbwJzyd0cEqJXGjY8kFwQaXEteOPcQqHW5us-KxZQA5F7V67sCeb29X00B8cbtQ" autocomplete="off" />
+              <form data-target="notifications-list-subscription-form.form" data-action="submit:notifications-list-subscription-form#submitForm" data-turbo="false" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="xRaqRgNMFPH2kaPGZS1Fi8kkQXg7F0AlfmF1tJBIr0e45EonGZ7_kUIE_Xan4nRGYehVLeYylN-aNl-aobMkrg" autocomplete="off" />
 
                 <input type="hidden" name="repository_id" value="556117727">
 
@@ -1779,7 +1779,7 @@
           hidden
         >
           <div class="SelectMenu-modal notifications-component-dialog-modal overflow-visible">
-            <form data-target="notifications-list-subscription-form.customform" data-action="submit:notifications-list-subscription-form#submitCustomForm" data-turbo="false" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="_bg9XnnXv5hwhQCUSTMdd-OeZ8KETuzZ5TYEOrCugM-ASt0_YwVU-MQQXiSL_Cy6S1Jzl1lrOCMBYS4UgVULJg" autocomplete="off" />
+            <form data-target="notifications-list-subscription-form.customform" data-action="submit:notifications-list-subscription-form#submitCustomForm" data-turbo="false" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="VaHNSDzn3k7k21zwLC-puKKyTg5jqDEGdnEZcGn_beAoUy0pJjU1LlBOAkDu4Jh1Cn5aW76N5fySJjNeWATmCQ" autocomplete="off" />
 
               <input type="hidden" name="repository_id" value="556117727">
 
@@ -1948,13 +1948,13 @@
       
 >
     <div class="SelectMenu-modal">
-        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-d67665">
+        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-2b96f9">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
     <path fill-rule="evenodd" d="M3.72 3.72a.75.75 0 011.06 0L8 6.94l3.22-3.22a.75.75 0 111.06 1.06L9.06 8l3.22 3.22a.75.75 0 11-1.06 1.06L8 9.06l-3.22 3.22a.75.75 0 01-1.06-1.06L6.94 8 3.72 4.78a.75.75 0 010-1.06z"></path>
 </svg>
         </button>
       <div
-        id="filter-menu-d67665"
+        id="filter-menu-2b96f9"
         class="d-flex flex-column flex-1 overflow-hidden"
 >
         <div
@@ -1996,10 +1996,10 @@
 
   <div data-view-component="true" class="js-toggler-container js-social-container starring-container d-flex">
     <div data-view-component="true" class="starred BtnGroup flex-1">
-      <form class="js-social-form BtnGroup-parent flex-auto js-deferred-toggler-target" data-turbo="false" action="/VforViolet10/jupyter-notebook/unstar" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="lwEHIqovTotSVcv5rHMPweu2vjJ23s33Hj72qpzq3oiYwkX58JXy6B1BFrOhivn33E5B-V8uFNA-N2ksHqvq-g" autocomplete="off" />
-          <input type="hidden" value="x5e0n1ue9c6c3beURiEvFmen2TgIZ-8qnOEbFcRbIsbIVPZEASRJrdPJat5L2NkgUF8m8yGXNg286ISTRhoWtA" data-csrf="true" class="js-confirm-csrf-token" />
+      <form class="js-social-form BtnGroup-parent flex-auto js-deferred-toggler-target" data-turbo="false" action="/VforViolet10/jupyter-notebook/unstar" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="fme9zmNFk-qMrZZ0Oc49Smczn90J5EQhaW0iTvni0s1xpP8VOf8vicO5Sz40N8t8UMtgFiAUnQZJZL3Ie6Pmvw" autocomplete="off" />
+          <input type="hidden" value="BwiORQn3M5C5kwT461vOblmcID__u8rUrDKS63PqEZEIy8yeU02P8_aH2bLmojhYbmTf9NZLE_OMOw1t8asl4w" data-csrf="true" class="js-confirm-csrf-token" />
         <input type="hidden" name="context" value="repository">
-          <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;UNSTAR_BUTTON&quot;,&quot;repository_id&quot;:556117727,&quot;originating_url&quot;:&quot;https://github.com/VforViolet10/jupyter-notebook/blob/main/Project.py&quot;,&quot;user_id&quot;:116449605}}" data-hydro-click-hmac="fa14b670e046a988e07a1c54b5178228a90ab58c6c907794c02aae4ae947fa1f" data-ga-click="Repository, click unstar button, action:blob#show; text:Unstar" aria-label="Unstar this repository (0)" type="submit" data-view-component="true" class="rounded-left-2 btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star-fill starred-button-icon d-inline-block mr-2">
+          <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;UNSTAR_BUTTON&quot;,&quot;repository_id&quot;:556117727,&quot;originating_url&quot;:&quot;https://github.com/VforViolet10/jupyter-notebook/blob/code/code01&quot;,&quot;user_id&quot;:116449605}}" data-hydro-click-hmac="50e282c8b658649bce321fef5166136723c9d28c246de81d8c9e2aa90065dbad" data-ga-click="Repository, click unstar button, action:blob#show; text:Unstar" aria-label="Unstar this repository (0)" type="submit" data-view-component="true" class="rounded-left-2 btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star-fill starred-button-icon d-inline-block mr-2">
     <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25z"></path>
 </svg><span data-view-component="true" class="d-inline">
             Starred
@@ -2017,13 +2017,13 @@
       
 >
     <div class="SelectMenu-modal">
-        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-58fc71">
+        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-86ede8">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
     <path fill-rule="evenodd" d="M3.72 3.72a.75.75 0 011.06 0L8 6.94l3.22-3.22a.75.75 0 111.06 1.06L9.06 8l3.22 3.22a.75.75 0 11-1.06 1.06L8 9.06l-3.22 3.22a.75.75 0 01-1.06-1.06L6.94 8 3.72 4.78a.75.75 0 010-1.06z"></path>
 </svg>
         </button>
       <div
-        id="filter-menu-58fc71"
+        id="filter-menu-86ede8"
         class="d-flex flex-column flex-1 overflow-hidden"
 >
         <div
@@ -2044,9 +2044,9 @@
 </details>
 </div>
     <div data-view-component="true" class="unstarred BtnGroup flex-1">
-      <form class="js-social-form BtnGroup-parent flex-auto" data-turbo="false" action="/VforViolet10/jupyter-notebook/star" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="mfa0kmgmmJi3Am_zYvpcGgGZ_MV2mHoF49pxjH_q7A-XGKzb7M5UeNGzcUxjIedGM0cQJRB1Tdvc_nlE_p9YOg" autocomplete="off" />
+      <form class="js-social-form BtnGroup-parent flex-auto" data-turbo="false" action="/VforViolet10/jupyter-notebook/star" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="f8LDGpJ5sUt0wDYsAPzbOnCA_ZhAsiGnBgpSbVfi4vdxLNtTFpF9qxJxKJMBJ2BmQl4ReCZfFnk5Llql1pdWwg" autocomplete="off" />
         <input type="hidden" name="context" value="repository">
-          <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;STAR_BUTTON&quot;,&quot;repository_id&quot;:556117727,&quot;originating_url&quot;:&quot;https://github.com/VforViolet10/jupyter-notebook/blob/main/Project.py&quot;,&quot;user_id&quot;:116449605}}" data-hydro-click-hmac="c56db2c1040645b9d8f6a1448a81337ac332e636489f3873d5bd63c057603983" data-ga-click="Repository, click star button, action:blob#show; text:Star" aria-label="Star this repository (0)" type="submit" data-view-component="true" class="js-toggler-target rounded-left-2 btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star d-inline-block mr-2">
+          <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;STAR_BUTTON&quot;,&quot;repository_id&quot;:556117727,&quot;originating_url&quot;:&quot;https://github.com/VforViolet10/jupyter-notebook/blob/code/code01&quot;,&quot;user_id&quot;:116449605}}" data-hydro-click-hmac="e591bf0709abb150adeb77f3523287289e0e8ff29e61a1493da09cfab539f9e6" data-ga-click="Repository, click star button, action:blob#show; text:Star" aria-label="Star this repository (0)" type="submit" data-view-component="true" class="js-toggler-target rounded-left-2 btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star d-inline-block mr-2">
     <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"></path>
 </svg><span data-view-component="true" class="d-inline">
             Star
@@ -2064,13 +2064,13 @@
       
 >
     <div class="SelectMenu-modal">
-        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-58fc71">
+        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-86ede8">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
     <path fill-rule="evenodd" d="M3.72 3.72a.75.75 0 011.06 0L8 6.94l3.22-3.22a.75.75 0 111.06 1.06L9.06 8l3.22 3.22a.75.75 0 11-1.06 1.06L8 9.06l-3.22 3.22a.75.75 0 01-1.06-1.06L6.94 8 3.72 4.78a.75.75 0 010-1.06z"></path>
 </svg>
         </button>
       <div
-        id="filter-menu-58fc71"
+        id="filter-menu-86ede8"
         class="d-flex flex-column flex-1 overflow-hidden"
 >
         <div
@@ -2106,7 +2106,7 @@
 
   <ul data-view-component="true" class="UnderlineNav-body list-style-none">
       <li data-view-component="true" class="d-inline-flex">
-  <a id="code-tab" href="/VforViolet10/jupyter-notebook" data-tab-item="i0code-tab" data-selected-links="repo_source repo_downloads repo_commits repo_releases repo_tags repo_branches repo_packages repo_deployments /VforViolet10/jupyter-notebook" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-hotkey="g c" data-analytics-event="{&quot;category&quot;:&quot;Underline navbar&quot;,&quot;action&quot;:&quot;Click tab&quot;,&quot;label&quot;:&quot;Code&quot;,&quot;target&quot;:&quot;UNDERLINE_NAV.TAB&quot;}" aria-current="page" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item selected">
+  <a id="code-tab" href="/VforViolet10/jupyter-notebook/tree/code" data-tab-item="i0code-tab" data-selected-links="repo_source repo_downloads repo_commits repo_releases repo_tags repo_branches repo_packages repo_deployments /VforViolet10/jupyter-notebook/tree/code" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-hotkey="g c" data-analytics-event="{&quot;category&quot;:&quot;Underline navbar&quot;,&quot;action&quot;:&quot;Click tab&quot;,&quot;label&quot;:&quot;Code&quot;,&quot;target&quot;:&quot;UNDERLINE_NAV.TAB&quot;}" aria-current="page" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item selected">
     
                 <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-code UnderlineNav-octicon d-none d-sm-inline">
     <path fill-rule="evenodd" d="M4.72 3.22a.75.75 0 011.06 1.06L2.06 8l3.72 3.72a.75.75 0 11-1.06 1.06L.47 8.53a.75.75 0 010-1.06l4.25-4.25zm6.56 0a.75.75 0 10-1.06 1.06L13.94 8l-3.72 3.72a.75.75 0 101.06 1.06l4.25-4.25a.75.75 0 000-1.06l-4.25-4.25z"></path>
@@ -2211,7 +2211,7 @@
 </summary>
   <details-menu role="menu" data-view-component="true" class="dropdown-menu dropdown-menu-sw">          <ul>
               <li data-menu-item="i0code-tab" hidden>
-                <a role="menuitem" class="js-selected-navigation-item selected dropdown-item" aria-current="page" data-selected-links="repo_source repo_downloads repo_commits repo_releases repo_tags repo_branches repo_packages repo_deployments /VforViolet10/jupyter-notebook" href="/VforViolet10/jupyter-notebook">
+                <a role="menuitem" class="js-selected-navigation-item selected dropdown-item" aria-current="page" data-selected-links="repo_source repo_downloads repo_commits repo_releases repo_tags repo_branches repo_packages repo_deployments /VforViolet10/jupyter-notebook/tree/code" href="/VforViolet10/jupyter-notebook/tree/code">
                   Code
 </a>              </li>
               <li data-menu-item="i1issues-tab" hidden>
@@ -2275,7 +2275,7 @@
 
 
     
-<a class="d-none js-permalink-shortcut" data-hotkey="y" href="/VforViolet10/jupyter-notebook/blob/b30d9a40d0a2f35420adc57f5fcfef47890e7f42/Project.py">Permalink</a>
+<a class="d-none js-permalink-shortcut" data-hotkey="y" href="/VforViolet10/jupyter-notebook/blob/4d57b6b81b89dc1c000d4aedca87a5b3bdd59480/code01">Permalink</a>
 
 <div class="d-flex flex-items-start flex-shrink-0 pb-3 flex-wrap flex-md-nowrap flex-justify-between flex-md-justify-start">
   
@@ -2283,14 +2283,14 @@
   <details
     class="js-branch-select-menu details-reset details-overlay mr-0 mb-0 "
     id="branch-select-menu"
-    data-hydro-click-payload="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;REFS_SELECTOR_MENU&quot;,&quot;repository_id&quot;:556117727,&quot;originating_url&quot;:&quot;https://github.com/VforViolet10/jupyter-notebook/blob/main/Project.py&quot;,&quot;user_id&quot;:116449605}}" data-hydro-click-hmac="8a6e38189a9933517c49151b8b9cfa288d3bc8de74ee164774936638d4df96cb">
+    data-hydro-click-payload="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;REFS_SELECTOR_MENU&quot;,&quot;repository_id&quot;:556117727,&quot;originating_url&quot;:&quot;https://github.com/VforViolet10/jupyter-notebook/blob/code/code01&quot;,&quot;user_id&quot;:116449605}}" data-hydro-click-hmac="9e0bb945fe50ea45a23a8a20463c04449cc61e1ce7d5f759122816b317aa6019">
     <summary class="btn css-truncate"
             data-hotkey="w"
             title="Switch branches or tags">
       <svg text="gray" aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-git-branch">
     <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"></path>
 </svg>
-      <span class="css-truncate-target" data-menu-button>main</span>
+      <span class="css-truncate-target" data-menu-button>code</span>
       <span class="dropdown-caret"></span>
     </summary>
 
@@ -2337,7 +2337,7 @@
             query-endpoint="/VforViolet10/jupyter-notebook/refs"
             can-create
             cache-key="v0:1666620353.6367931"
-            current-committish="bWFpbg=="
+            current-committish="Y29kZQ=="
             default-branch="bWFpbg=="
             name-with-owner="VmZvclZpb2xldDEwL2p1cHl0ZXItbm90ZWJvb2s="
             prefetch-on-mouseover
@@ -2351,10 +2351,10 @@
     <create-repo-from-selector
       check-tag-name-exists-path="/VforViolet10/jupyter-notebook/branches/check_tag_name_exists"
     >
-      <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-turbo="false" action="/VforViolet10/jupyter-notebook/branches" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="lwjfpA86u5R3XEWY1dUwdwJSGeV4oz4MqscF1Sh1H7mOHfauWwnt209TRCC2acGfgTn_8LSomo_ogNqfo9KUmQ" />
+      <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-turbo="false" action="/VforViolet10/jupyter-notebook/branches" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="vziXoOIf8OEvF8C6xQnNjLP_R7y-Hn4pTF-hoslPh2CmLb6qtiymrhcYwQKmtTxkMJShqXIV2qoOGH7oQugMQA" />
         <input data-target="create-repo-from-selector.refName" type="hidden" name="name" value="{{ refName }}">
-        <input type="hidden" name="branch"  value="main">
-        <input type="hidden" name="path_binary" value="UHJvamVjdC5weQ==">
+        <input type="hidden" name="branch"  value="code">
+        <input type="hidden" name="path_binary" value="Y29kZTAx">
 
         <button
           class="SelectMenu-item wb-break-word"
@@ -2362,13 +2362,13 @@
           role="menuitem"
           data-index="{{ index }}"
           data-action="click:create-repo-from-selector#createBranch"
-          data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;REFS_SELECTOR_MENU_CREATE_BRANCH&quot;,&quot;repository_id&quot;:556117727,&quot;ref_name&quot;:&quot;{{ refName }}&quot;,&quot;originating_url&quot;:&quot;https://github.com/VforViolet10/jupyter-notebook/blob/main/Project.py&quot;,&quot;user_id&quot;:116449605}}" data-hydro-click-hmac="051e6441d22eee00326dad82c0dd53ebeeee947350f1d5872471e754c5785fa5">
+          data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;REFS_SELECTOR_MENU_CREATE_BRANCH&quot;,&quot;repository_id&quot;:556117727,&quot;ref_name&quot;:&quot;{{ refName }}&quot;,&quot;originating_url&quot;:&quot;https://github.com/VforViolet10/jupyter-notebook/blob/code/code01&quot;,&quot;user_id&quot;:116449605}}" data-hydro-click-hmac="c6eeb2375e84929c8ae6d1ca02f11021036c9be15de342e973186dec32bd4ffc">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-git-branch SelectMenu-icon flex-self-baseline">
     <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"></path>
 </svg>
           <div>
             <span class="text-bold">Create branch: {{ refName }}</span>
-            <span class="color-fg-muted">from ‘main’</span>
+            <span class="color-fg-muted">from ‘code’</span>
           </div>
         </button>
 </form>    </create-repo-from-selector>
@@ -2385,7 +2385,7 @@
             </div>
 
               <template data-target="ref-selector.itemTemplate">
-  <a href="https://github.com/VforViolet10/jupyter-notebook/blob/{{ urlEncodedRefName }}/Project.py" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}">
+  <a href="https://github.com/VforViolet10/jupyter-notebook/blob/{{ urlEncodedRefName }}/code01" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}">
     <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check">
     <path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path>
 </svg>
@@ -2411,7 +2411,7 @@
             data-targets="input-demux.sinks"
             query-endpoint="/VforViolet10/jupyter-notebook/refs"
             cache-key="v0:1666620353.6367931"
-            current-committish="bWFpbg=="
+            current-committish="Y29kZQ=="
             default-branch="bWFpbg=="
             name-with-owner="VmZvclZpb2xldDEwL2p1cHl0ZXItbm90ZWJvb2s="
           >
@@ -2425,7 +2425,7 @@
             </template>
 
               <template data-target="ref-selector.itemTemplate">
-  <a href="https://github.com/VforViolet10/jupyter-notebook/blob/{{ urlEncodedRefName }}/Project.py" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}">
+  <a href="https://github.com/VforViolet10/jupyter-notebook/blob/{{ urlEncodedRefName }}/code01" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}">
     <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check">
     <path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path>
 </svg>
@@ -2486,50 +2486,9 @@
 
 
   <h2 id="blob-path" class="breadcrumb flex-auto flex-self-center min-width-0 text-normal mx-2 width-full width-md-auto flex-order-1 flex-md-order-none mt-3 mt-md-0">
-    <span class="js-repo-root text-bold"><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" href="/VforViolet10/jupyter-notebook"><span>jupyter-notebook</span></a></span></span><span class="separator">/</span><strong class="final-path">Project.py</strong>
-      <span class="separator">/</span><details class="details-reset details-overlay d-inline" id="jumpto-symbol-select-menu">
-    <summary aria-haspopup="true" data-hotkey="r" data-hydro-click="{&quot;event_type&quot;:&quot;code_navigation.click_on_blob_definitions&quot;,&quot;payload&quot;:{&quot;action&quot;:&quot;click_on_blob_definitions&quot;,&quot;repository_id&quot;:556117727,&quot;ref&quot;:&quot;main&quot;,&quot;language&quot;:&quot;Python&quot;,&quot;backend&quot;:&quot;ALEPH_FUZZY&quot;,&quot;code_nav_context&quot;:&quot;BLOB_VIEW&quot;,&quot;retry_backend&quot;:&quot;&quot;,&quot;cross_repo_results_included&quot;:&quot;CROSS_REPO_UNKNOWN&quot;,&quot;in_repo_result_count&quot;:0,&quot;cross_repo_result_count&quot;:0,&quot;originating_url&quot;:&quot;https://github.com/VforViolet10/jupyter-notebook/blob/main/Project.py&quot;,&quot;user_id&quot;:116449605}}" data-hydro-click-hmac="4f0fd386d67f0346de40cada7cf797ac18a0d470b0b313c2ba429d530866d7a2" data-view-component="true" class="Link--secondary css-truncate btn-link">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-code">
-    <path fill-rule="evenodd" d="M4.72 3.22a.75.75 0 011.06 1.06L2.06 8l3.72 3.72a.75.75 0 11-1.06 1.06L.47 8.53a.75.75 0 010-1.06l4.25-4.25zm6.56 0a.75.75 0 10-1.06 1.06L13.94 8l-3.72 3.72a.75.75 0 101.06 1.06l4.25-4.25a.75.75 0 000-1.06l-4.25-4.25z"></path>
-</svg>
-    <span data-menu-button>Jump to</span>
-    <span class="dropdown-caret"></span>
-</summary>  <details-menu class="SelectMenu SelectMenu--hasFilter" role="menu">
-    <div class="SelectMenu-modal">
-      <header class="SelectMenu-header">
-        <span class="SelectMenu-title">Code definitions</span>
-        <button class="SelectMenu-closeButton" type="button" data-toggle-for="jumpto-symbol-select-menu">
-          <svg aria-label="Close menu" role="img" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
-    <path fill-rule="evenodd" d="M3.72 3.72a.75.75 0 011.06 0L8 6.94l3.22-3.22a.75.75 0 111.06 1.06L9.06 8l3.22 3.22a.75.75 0 11-1.06 1.06L8 9.06l-3.22 3.22a.75.75 0 01-1.06-1.06L6.94 8 3.72 4.78a.75.75 0 010-1.06z"></path>
-</svg>
-        </button>
-      </header>
-        <div class="SelectMenu-filter">
-          <input
-            class="SelectMenu-input form-control js-filterable-field"
-            id="jumpto-symbols-filter-field"
-            type="text"
-            autocomplete="off"
-            spellcheck="false"
-            autofocus
-            placeholder="Filter definitions"
-            aria-label="Filter definitions">
-        </div>
-      <div class="SelectMenu-list">
-        <div data-filterable-for="jumpto-symbols-filter-field" data-filterable-type="substring">
-        </div>
-      </div>
-      <footer class="SelectMenu-footer">
-        <div class="d-flex flex-justify-between">
-          Code navigation index up-to-date
-          <svg class="octicon octicon-dot-fill text-green" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
-        </div>
-      </footer>
-    </div>
-  </details-menu>
-</details>
-
+    <span class="js-repo-root text-bold"><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" href="/VforViolet10/jupyter-notebook/tree/code"><span>jupyter-notebook</span></a></span></span><span class="separator">/</span><strong class="final-path">code01</strong>
   </h2>
-    <a href="/VforViolet10/jupyter-notebook/find/main" data-pjax="" data-hotkey="t" data-view-component="true" class="btn mr-2 d-none d-md-block">    Go to file
+    <a href="/VforViolet10/jupyter-notebook/find/code" data-pjax="" data-hotkey="t" data-view-component="true" class="btn mr-2 d-none d-md-block">    Go to file
 </a>
   <details id="blob-more-options-details" data-view-component="true" class="details-overlay details-reset position-relative">
     <summary role="button" data-view-component="true" class="btn">    <svg aria-label="More options" role="img" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-kebab-horizontal">
@@ -2538,7 +2497,7 @@
 </summary>
   <div data-view-component="true">      <ul class="dropdown-menu dropdown-menu-sw">
         <li class="d-block d-md-none">
-          <a class="dropdown-item d-flex flex-items-baseline" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FIND_FILE_BUTTON&quot;,&quot;repository_id&quot;:556117727,&quot;originating_url&quot;:&quot;https://github.com/VforViolet10/jupyter-notebook/blob/main/Project.py&quot;,&quot;user_id&quot;:116449605}}" data-hydro-click-hmac="1e9149d36e655a04fd6022f3b7ff1b93a3f79068608db3b82547f87e4e79305f" data-ga-click="Repository, find file, location:repo overview" data-hotkey="t" data-pjax="true" href="/VforViolet10/jupyter-notebook/find/main">
+          <a class="dropdown-item d-flex flex-items-baseline" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FIND_FILE_BUTTON&quot;,&quot;repository_id&quot;:556117727,&quot;originating_url&quot;:&quot;https://github.com/VforViolet10/jupyter-notebook/blob/code/code01&quot;,&quot;user_id&quot;:116449605}}" data-hydro-click-hmac="c671b885e0313f1b74f5afc85cba4c66288e892899b34b8a199ff514c3176b66" data-ga-click="Repository, find file, location:repo overview" data-hotkey="t" data-pjax="true" href="/VforViolet10/jupyter-notebook/find/code">
             <span class="flex-auto">Go to file</span>
             <span class="text-small color-fg-muted" aria-hidden="true">T</span>
 </a>        </li>
@@ -2548,21 +2507,15 @@
               <span class="text-small color-fg-muted" aria-hidden="true">L</span>
             </span>
 </button>        </li>
-        <li data-toggle-for="blob-more-options-details">
-            <button data-toggle-for="jumpto-symbol-select-menu" type="button" data-view-component="true" class="dropdown-item btn-link">    <span class="d-flex flex-items-baseline">
-              <span class="flex-auto">Go to definition</span>
-              <span class="text-small color-fg-muted" aria-hidden="true">R</span>
-            </span>
-</button>        </li>
         <li class="dropdown-divider" role="none"></li>
         <li>
-          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy path" value="Project.py" data-view-component="true" class="dropdown-item cursor-pointer">
+          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy path" value="code01" data-view-component="true" class="dropdown-item cursor-pointer">
     
             Copy path
 
 </clipboard-copy>        </li>
         <li>
-          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy permalink" value="https://github.com/VforViolet10/jupyter-notebook/blob/b30d9a40d0a2f35420adc57f5fcfef47890e7f42/Project.py" data-view-component="true" class="dropdown-item cursor-pointer">
+          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy permalink" value="https://github.com/VforViolet10/jupyter-notebook/blob/4d57b6b81b89dc1c000d4aedca87a5b3bdd59480/code01" data-view-component="true" class="dropdown-item cursor-pointer">
     
             <span class="d-flex flex-items-baseline">
               <span class="flex-auto">Copy permalink</span>
@@ -2591,20 +2544,89 @@
   
 </div></div>
 
-    <include-fragment src="/VforViolet10/jupyter-notebook/spoofed_commit_check/b30d9a40d0a2f35420adc57f5fcfef47890e7f42" data-test-selector="spoofed-commit-check"></include-fragment>
+    <include-fragment src="/VforViolet10/jupyter-notebook/spoofed_commit_check/4d57b6b81b89dc1c000d4aedca87a5b3bdd59480" data-test-selector="spoofed-commit-check"></include-fragment>
 
     <div class="Box d-flex flex-column flex-shrink-0 mb-3">
-  <include-fragment src="/VforViolet10/jupyter-notebook/contributors/main/Project.py" class="commit-loader">
-    <div class="Box-header d-flex flex-items-center">
-      <div class="Skeleton avatar avatar-user flex-shrink-0 ml-n1 mr-n1 mt-n1 mb-n1" style="width:24px;height:24px;"></div>
-      <div class="Skeleton Skeleton--text col-5 ml-2">&nbsp;</div>
-    </div>
+  
+  <div class="Box-header Details js-details-container">
+      <div class="d-flex flex-items-center">
+        <span class="flex-shrink-0 ml-n1 mr-n1 mt-n1 mb-n1">
+          <a rel="author" data-hovercard-type="user" data-hovercard-url="/users/VforViolet10/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/VforViolet10"><img class="avatar avatar-user" src="https://avatars.githubusercontent.com/u/116449605?s=48&amp;v=4" width="24" height="24" alt="@VforViolet10" /></a>
+        </span>
+        <div class="flex-1 d-flex flex-items-center ml-3 min-width-0">
+          <div class="css-truncate css-truncate-overflow">
+            <a class="text-bold Link--primary" rel="author" data-hovercard-type="user" data-hovercard-url="/users/VforViolet10/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/VforViolet10">VforViolet10</a>
 
-    <div class="Box-body d-flex flex-items-center" >
-      <div class="Skeleton Skeleton--text col-1">&nbsp;</div>
-      <span class="color-fg-danger h6 loader-error">Cannot retrieve contributors at this time</span>
-    </div>
-</include-fragment></div>
+              <span class="markdown-title">
+                <a data-pjax="true" title="Create code01
+
+Plotting libraries, Metrices for classification technique, Scalar and Model building" class="Link--secondary" href="/VforViolet10/jupyter-notebook/commit/4d57b6b81b89dc1c000d4aedca87a5b3bdd59480">Create code01</a>
+              </span>
+          </div>
+
+            <span class="hidden-text-expander ml-1 flex-shrink-0">
+              <button type="button" class="ellipsis-expander js-details-target" aria-expanded="false">&hellip;</button>
+            </span>
+
+          <span class="ml-2">
+            <include-fragment accept="text/fragment+html" src="/VforViolet10/jupyter-notebook/commit/4d57b6b81b89dc1c000d4aedca87a5b3bdd59480/rollup?direction=e" class="d-inline"></include-fragment>
+          </span>
+        </div>
+        <div class="ml-3 d-flex flex-shrink-0 flex-items-center flex-justify-end color-fg-muted no-wrap">
+          <span class="d-none d-md-inline">
+            <span>Latest commit</span>
+            <a class="text-small text-mono Link--secondary" href="/VforViolet10/jupyter-notebook/commit/4d57b6b81b89dc1c000d4aedca87a5b3bdd59480" data-pjax>4d57b6b</a>
+            <span itemprop="dateModified"><relative-time datetime="2022-10-24T07:16:27Z" class="no-wrap">Oct 24, 2022</relative-time></span>
+          </span>
+
+          <a data-pjax href="/VforViolet10/jupyter-notebook/commits/code/code01" class="ml-3 no-wrap Link--primary no-underline">
+            <svg text="gray" aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-history">
+    <path fill-rule="evenodd" d="M1.643 3.143L.427 1.927A.25.25 0 000 2.104V5.75c0 .138.112.25.25.25h3.646a.25.25 0 00.177-.427L2.715 4.215a6.5 6.5 0 11-1.18 4.458.75.75 0 10-1.493.154 8.001 8.001 0 101.6-5.684zM7.75 4a.75.75 0 01.75.75v2.992l2.028.812a.75.75 0 01-.557 1.392l-2.5-1A.75.75 0 017 8.25v-3.5A.75.75 0 017.75 4z"></path>
+</svg>
+            <span class="d-none d-sm-inline">
+              <strong>History</strong>
+            </span>
+          </a>
+        </div>
+      </div>
+        <div class="Details-content--hidden ml-5 mt-2"><pre class="mt-2 f6 ws-pre-wrap">Plotting libraries, Metrices for classification technique, Scalar and Model building</pre></div>
+
+  </div>
+
+  <div class="Box-body d-flex flex-items-center flex-auto border-bottom-0 flex-wrap" >
+    <details class="details-reset details-overlay details-overlay-dark lh-default color-fg-default float-left mr-3" id="blob_contributors_box">
+      <summary class="Link--primary">
+        <svg text="gray" aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-people">
+    <path fill-rule="evenodd" d="M5.5 3.5a2 2 0 100 4 2 2 0 000-4zM2 5.5a3.5 3.5 0 115.898 2.549 5.507 5.507 0 013.034 4.084.75.75 0 11-1.482.235 4.001 4.001 0 00-7.9 0 .75.75 0 01-1.482-.236A5.507 5.507 0 013.102 8.05 3.49 3.49 0 012 5.5zM11 4a.75.75 0 100 1.5 1.5 1.5 0 01.666 2.844.75.75 0 00-.416.672v.352a.75.75 0 00.574.73c1.2.289 2.162 1.2 2.522 2.372a.75.75 0 101.434-.44 5.01 5.01 0 00-2.56-3.012A3 3 0 0011 4z"></path>
+</svg>
+        <strong>1</strong>
+        
+        contributor
+      </summary>
+      <details-dialog
+        class="Box Box--overlay d-flex flex-column anim-fade-in fast"
+        aria-label="Users who have contributed to this file"
+        src="/VforViolet10/jupyter-notebook/contributors-list/code/code01" preload>
+        <div class="Box-header">
+          <button class="Box-btn-octicon btn-octicon float-right" type="button" aria-label="Close dialog" data-close-dialog>
+            <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
+    <path fill-rule="evenodd" d="M3.72 3.72a.75.75 0 011.06 0L8 6.94l3.22-3.22a.75.75 0 111.06 1.06L9.06 8l3.22 3.22a.75.75 0 11-1.06 1.06L8 9.06l-3.22 3.22a.75.75 0 01-1.06-1.06L6.94 8 3.72 4.78a.75.75 0 010-1.06z"></path>
+</svg>
+          </button>
+          <h3 class="Box-title">
+            Users who have contributed to this file
+          </h3>
+        </div>
+        <include-fragment>
+          <svg style="box-sizing: content-box; color: var(--color-icon-primary);" width="32" height="32" viewBox="0 0 16 16" fill="none" data-view-component="true" class="my-3 mx-auto d-block anim-rotate">
+  <circle cx="8" cy="8" r="7" stroke="currentColor" stroke-opacity="0.25" stroke-width="2" vector-effect="non-scaling-stroke" />
+  <path d="M15 8a7.002 7.002 0 00-7-7" stroke="currentColor" stroke-width="2" stroke-linecap="round" vector-effect="non-scaling-stroke" />
+</svg>
+        </include-fragment>
+      </details-dialog>
+    </details>
+  </div>
+</div>
 
 
 
@@ -2628,23 +2650,23 @@
 
   <div class="text-mono f6 flex-auto pr-3 flex-order-2 flex-md-order-1">
 
-      40 lines (31 sloc)
+      14 lines (14 sloc)
       <span class="file-info-divider"></span>
-    1012 Bytes
+    545 Bytes
   </div>
 
   <div class="d-flex py-1 py-md-0 flex-auto flex-order-1 flex-md-order-2 flex-sm-grow-0 flex-justify-between hide-sm hide-md">
       
 
     <div class="BtnGroup">
-        <a data-permalink-href="/VforViolet10/jupyter-notebook/raw/b30d9a40d0a2f35420adc57f5fcfef47890e7f42/Project.py" href="/VforViolet10/jupyter-notebook/raw/main/Project.py" id="raw-url" data-view-component="true" class="js-permalink-replaceable-link btn-sm btn BtnGroup-item">    Raw
-</a>          <a data-permalink-href="/VforViolet10/jupyter-notebook/blame/b30d9a40d0a2f35420adc57f5fcfef47890e7f42/Project.py" href="/VforViolet10/jupyter-notebook/blame/main/Project.py" data-hotkey="b" data-view-component="true" class="js-update-url-with-hash js-permalink-replaceable-link btn-sm btn BtnGroup-item">    Blame
+        <a data-permalink-href="/VforViolet10/jupyter-notebook/raw/4d57b6b81b89dc1c000d4aedca87a5b3bdd59480/code01" href="/VforViolet10/jupyter-notebook/raw/code/code01" id="raw-url" data-view-component="true" class="js-permalink-replaceable-link btn-sm btn BtnGroup-item">    Raw
+</a>          <a data-permalink-href="/VforViolet10/jupyter-notebook/blame/4d57b6b81b89dc1c000d4aedca87a5b3bdd59480/code01" href="/VforViolet10/jupyter-notebook/blame/code/code01" data-hotkey="b" data-view-component="true" class="js-update-url-with-hash js-permalink-replaceable-link btn-sm btn BtnGroup-item">    Blame
 </a>    </div>
 
     <div class="d-flex">
         
 <div class="ml-1" data-test-selector="edit-dropdown-menu-component">
-  <form class="BtnGroup-parent js-update-url-with-hash " data-turbo="false" action="/VforViolet10/jupyter-notebook/edit/main/Project.py" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="0tc3IF476AdxJ03WRKqX74WEn44yzcrTZl2MlGRscomNgSDRGI-DpqaT83zFD2D51NjKlSKDCo4pIri5-rFGhQ" autocomplete="off" />
+  <form class="BtnGroup-parent js-update-url-with-hash " data-turbo="false" action="/VforViolet10/jupyter-notebook/edit/code/code01" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="E8m-Rf_Nf2zUySXPwIMPZxwrdiyu39tcOfx5uM6gkOEsHwWDDy1jY7KbpaKtr9qdSr62uPl41uVRljlkpmVc6g" autocomplete="off" />
       <button title="Edit this file" data-hotkey="e" data-disable-with="" data-test-selector="edit-icon-button" type="submit" data-view-component="true" class="btn-sm BtnGroup-item btn">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-pencil">
     <path fill-rule="evenodd" d="M11.013 1.427a1.75 1.75 0 012.474 0l1.086 1.086a1.75 1.75 0 010 2.474l-8.61 8.61c-.21.21-.47.364-.756.445l-3.251.93a.75.75 0 01-.927-.928l.929-3.25a1.75 1.75 0 01.445-.758l8.61-8.61zm1.414 1.06a.25.25 0 00-.354 0L10.811 3.75l1.439 1.44 1.263-1.263a.25.25 0 000-.354l-1.086-1.086zM11.189 6.25L9.75 4.81l-6.286 6.287a.25.25 0 00-.064.108l-.558 1.953 1.953-.558a.249.249 0 00.108-.064l6.286-6.286z"></path>
 </svg>
@@ -2654,7 +2676,7 @@
 </summary>    <div class="SelectMenu right-0">
       <div class="SelectMenu-modal width-full">
         <div class="SelectMenu-list SelectMenu-list--borderless py-2">
-          <form class="SelectMenu-item js-update-url-with-hash " data-turbo="false" action="/VforViolet10/jupyter-notebook/edit/main/Project.py" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="sqDpSdNIG59zIUVFf59dga6FFO2Qy_XR-_6eARBsACTt9v64lfxwPqSV--_-OqqX_9lB9oCFNYy0gaosjrE0KA" autocomplete="off" />
+          <form class="SelectMenu-item js-update-url-with-hash " data-turbo="false" action="/VforViolet10/jupyter-notebook/edit/code/code01" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="npUbdcarjTbu74FSnnV4NPBnVVlOIFaarvsk2Nq2DemhQ6CzNkuROYi9AT_zWa3OpvKVzRmHWyPGkWQEsnPB4g" autocomplete="off" />
               <button title="Edit this file" data-test-selector="edit-text-button" type="submit" data-view-component="true" class="btn-invisible btn width-full d-flex flex-justify-between color-fg-default text-normal p-0">    <div class="mr-5">Edit this file</div>
               <div class="color-fg-muted">E</div>
 </button></form>
@@ -2673,10 +2695,10 @@
 
         
 <div data-test-selector="remote-clipboard-copy">
-  <remote-clipboard-copy class="d-inline-block btn-octicon" style="height: 26px" data-src="/VforViolet10/jupyter-notebook/raw/b30d9a40d0a2f35420adc57f5fcfef47890e7f42/Project.py" data-action="click:remote-clipboard-copy#remoteCopy">
+  <remote-clipboard-copy class="d-inline-block btn-octicon" style="height: 26px" data-src="/VforViolet10/jupyter-notebook/raw/4d57b6b81b89dc1c000d4aedca87a5b3bdd59480/code01" data-action="click:remote-clipboard-copy#remoteCopy">
   
 
-  <span data-target="remote-clipboard-copy.idle">      <span class="tooltipped tooltipped-nw cursor-pointer" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;COPY_RAW_CONTENTS_BUTTON&quot;,&quot;repository_id&quot;:556117727,&quot;originating_url&quot;:&quot;https://github.com/VforViolet10/jupyter-notebook/blob/main/Project.py&quot;,&quot;user_id&quot;:116449605}}" data-hydro-click-hmac="9f33151baad3542dc32cc86cd71b5cdfcc3266ce9d76f3a6deb1c604ea836612" aria-label="Copy raw contents">
+  <span data-target="remote-clipboard-copy.idle">      <span class="tooltipped tooltipped-nw cursor-pointer" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;COPY_RAW_CONTENTS_BUTTON&quot;,&quot;repository_id&quot;:556117727,&quot;originating_url&quot;:&quot;https://github.com/VforViolet10/jupyter-notebook/blob/code/code01&quot;,&quot;user_id&quot;:116449605}}" data-hydro-click-hmac="3b1a2294af826451d347ab97b312cd1e3b823038ffb642573a7d2ffd80357112" aria-label="Copy raw contents">
         <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy">
     <path fill-rule="evenodd" d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 010 1.5h-1.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 00.25-.25v-1.5a.75.75 0 011.5 0v1.5A1.75 1.75 0 019.25 16h-7.5A1.75 1.75 0 010 14.25v-7.5z"></path><path fill-rule="evenodd" d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0114.25 11h-7.5A1.75 1.75 0 015 9.25v-7.5zm1.75-.25a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25h-7.5z"></path>
 </svg>
@@ -2701,7 +2723,7 @@
 </remote-clipboard-copy></div>
 
 
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" data-turbo="false" action="/VforViolet10/jupyter-notebook/delete/main/Project.py" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="yejIFXwzQWurpqvo9640oH4gyLFvd2dVlwDj-pPgRvPE4acMYbDUdeuGfOEHNqFBlNvLzo6sy2oJjy9qvyuUww" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" data-turbo="false" action="/VforViolet10/jupyter-notebook/delete/code/code01" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="Y6dft5iQ2xk50GDIP7VXDTgDOd1huY8RtnYvy_xYklxinwyY7B-zWTOuMCSGz3O-lpfwTo5eZYD7n-d9FbaEYQ" />
             <button class="btn-octicon btn-octicon-danger tooltipped tooltipped-nw" type="submit"
               aria-label="Delete this file" data-disable-with>
               <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-trash">
@@ -2734,15 +2756,15 @@
                 </a>
             </li>
           <li>
-            <a class="dropdown-item" href="/VforViolet10/jupyter-notebook/raw/main/Project.py">
+            <a class="dropdown-item" href="/VforViolet10/jupyter-notebook/raw/code/code01">
               View raw
             </a>
           </li>
             <li>
-              <remote-clipboard-copy class="dropdown-item" data-src="/VforViolet10/jupyter-notebook/raw/main/Project.py" data-action="click:remote-clipboard-copy#remoteCopy">
+              <remote-clipboard-copy class="dropdown-item" data-src="/VforViolet10/jupyter-notebook/raw/code/code01" data-action="click:remote-clipboard-copy#remoteCopy">
   
 
-  <span data-target="remote-clipboard-copy.idle">                  <span class="cursor-pointer" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;COPY_RAW_CONTENTS_BUTTON&quot;,&quot;repository_id&quot;:556117727,&quot;originating_url&quot;:&quot;https://github.com/VforViolet10/jupyter-notebook/blob/main/Project.py&quot;,&quot;user_id&quot;:116449605}}" data-hydro-click-hmac="9f33151baad3542dc32cc86cd71b5cdfcc3266ce9d76f3a6deb1c604ea836612">
+  <span data-target="remote-clipboard-copy.idle">                  <span class="cursor-pointer" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;COPY_RAW_CONTENTS_BUTTON&quot;,&quot;repository_id&quot;:556117727,&quot;originating_url&quot;:&quot;https://github.com/VforViolet10/jupyter-notebook/blob/code/code01&quot;,&quot;user_id&quot;:116449605}}" data-hydro-click-hmac="3b1a2294af826451d347ab97b312cd1e3b823038ffb642573a7d2ffd80357112">
                     Copy raw contents
 </span></span>
   <span data-target="remote-clipboard-copy.fetching" hidden="hidden">                  Copy raw contents
@@ -2765,20 +2787,20 @@
 </span>
 </remote-clipboard-copy>            </li>
             <li>
-              <a class="dropdown-item" href="/VforViolet10/jupyter-notebook/blame/main/Project.py">
+              <a class="dropdown-item" href="/VforViolet10/jupyter-notebook/blame/code/code01">
                 View blame
               </a>
             </li>
 
               <li class="dropdown-divider" role="none"></li>
               <li>
-                <a class="dropdown-item" href="/VforViolet10/jupyter-notebook/edit/main/Project.py">Edit file</a>
+                <a class="dropdown-item" href="/VforViolet10/jupyter-notebook/edit/code/code01">Edit file</a>
               </li>
                 <li>
                   <a class="dropdown-item js-github-dev-shortcut js-blob-dropdown-click" data-test-selector="small-screen-github-dev-link" data-dropdown-tracking="{&quot;type&quot;:&quot;blob_edit_dropdown.dev_link_click&quot;,&quot;context&quot;:{&quot;repository_id&quot;:556117727,&quot;actor_id&quot;:116449605,&quot;edit_enabled&quot;:true,&quot;small_screen&quot;:true}}" href="https://github.dev/">Open with github.dev</a>
                 </li>
               <li>
-                <a class="dropdown-item menu-item-danger" href="/VforViolet10/jupyter-notebook/delete/main/Project.py">Delete file</a>
+                <a class="dropdown-item menu-item-danger" href="/VforViolet10/jupyter-notebook/delete/code/code01">Delete file</a>
               </li>
         </ul>
       </details>
@@ -2787,7 +2809,7 @@
 
 
       
-    <div itemprop="text" class="Box-body p-0 blob-wrapper data type-python  gist-border-0">
+    <div itemprop="text" class="Box-body p-0 blob-wrapper data type-text  gist-border-0">
 
         
 <div class="js-check-bidi js-blob-code-container blob-code-content">
@@ -2815,170 +2837,62 @@
 </svg>
 </span></template>
 
-  <table data-hpc class="highlight tab-size js-file-line-container js-code-nav-container js-tagsearch-file" data-tab-size="8" data-paste-markdown-skip data-tagsearch-lang="Python" data-tagsearch-path="Project.py">
+  <table data-hpc class="highlight tab-size js-file-line-container js-code-nav-container js-tagsearch-file" data-tab-size="8" data-paste-markdown-skip data-tagsearch-lang="" data-tagsearch-path="code01">
         <tr>
           <td id="L1" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="1"></td>
-          <td id="LC1" class="blob-code blob-code-inner js-file-line"><span class=pl-c>#!/usr/bin/env python</span></td>
+          <td id="LC1" class="blob-code blob-code-inner js-file-line">import pandas as pd</td>
         </tr>
         <tr>
           <td id="L2" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="2"></td>
-          <td id="LC2" class="blob-code blob-code-inner js-file-line"><span class=pl-c># coding: utf-8</span></td>
+          <td id="LC2" class="blob-code blob-code-inner js-file-line">import numpy as np</td>
         </tr>
         <tr>
           <td id="L3" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="3"></td>
-          <td id="LC3" class="blob-code blob-code-inner js-file-line">
-</td>
+          <td id="LC3" class="blob-code blob-code-inner js-file-line">import matplotlib.pyplot as plt</td>
         </tr>
         <tr>
           <td id="L4" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="4"></td>
-          <td id="LC4" class="blob-code blob-code-inner js-file-line"><span class=pl-c># In[3]:</span></td>
+          <td id="LC4" class="blob-code blob-code-inner js-file-line">import seaborn as sns</td>
         </tr>
         <tr>
           <td id="L5" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="5"></td>
-          <td id="LC5" class="blob-code blob-code-inner js-file-line">
-</td>
+          <td id="LC5" class="blob-code blob-code-inner js-file-line">import cufflinks as cf</td>
         </tr>
         <tr>
           <td id="L6" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="6"></td>
-          <td id="LC6" class="blob-code blob-code-inner js-file-line">
-</td>
+          <td id="LC6" class="blob-code blob-code-inner js-file-line">%matplotlib inline</td>
         </tr>
         <tr>
           <td id="L7" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="7"></td>
-          <td id="LC7" class="blob-code blob-code-inner js-file-line"><span class=pl-k>import</span> <span class=pl-s1>csv</span></td>
+          <td id="LC7" class="blob-code blob-code-inner js-file-line">from sklearn.metrics import classification_report,confusion_matrix,accuracy_score</td>
         </tr>
         <tr>
           <td id="L8" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="8"></td>
-          <td id="LC8" class="blob-code blob-code-inner js-file-line"><span class=pl-s1>fw</span><span class=pl-c1>=</span><span class=pl-en>open</span>(<span class=pl-s>&quot;app.csv&quot;</span>,<span class=pl-s>&quot;w&quot;</span>,<span class=pl-s1>newline</span><span class=pl-c1>=</span><span class=pl-s>&quot;&quot;</span>)</td>
+          <td id="LC8" class="blob-code blob-code-inner js-file-line">from sklearn.preprocessing import StandardScaler</td>
         </tr>
         <tr>
           <td id="L9" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="9"></td>
-          <td id="LC9" class="blob-code blob-code-inner js-file-line"><span class=pl-s1>writepen</span><span class=pl-c1>=</span><span class=pl-s1>csv</span>.<span class=pl-en>writer</span>(<span class=pl-s1>fw</span>)</td>
+          <td id="LC9" class="blob-code blob-code-inner js-file-line">from sklearn.model_selection import  RandomizedSearchCV, train_test_split</td>
         </tr>
         <tr>
           <td id="L10" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="10"></td>
-          <td id="LC10" class="blob-code blob-code-inner js-file-line"><span class=pl-s1>data</span><span class=pl-c1>=</span>[<span class=pl-s>&#39;age&#39;</span>,<span class=pl-s>&#39;sex&#39;</span>,<span class=pl-s>&#39;cp&#39;</span>,<span class=pl-s>&#39;trtbps&#39;</span>,<span class=pl-s>&#39;chol&#39;</span>,<span class=pl-s>&#39;fbs&#39;</span>,<span class=pl-s>&#39;restecg&#39;</span>,<span class=pl-s>&#39;thalachh&#39;</span>,<span class=pl-s>&#39;exng&#39;</span>,<span class=pl-s>&#39;oldpeak&#39;</span>,<span class=pl-s>&#39;slp&#39;</span>,<span class=pl-s>&#39;caa&#39;</span>,<span class=pl-s>&#39;thall&#39;</span>]</td>
+          <td id="LC10" class="blob-code blob-code-inner js-file-line">from xgboost import XGBClassifier</td>
         </tr>
         <tr>
           <td id="L11" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="11"></td>
-          <td id="LC11" class="blob-code blob-code-inner js-file-line"><span class=pl-s1>writepen</span>.<span class=pl-en>writerow</span>(<span class=pl-s1>data</span>)</td>
+          <td id="LC11" class="blob-code blob-code-inner js-file-line">from catboost import CatBoostClassifier</td>
         </tr>
         <tr>
           <td id="L12" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="12"></td>
-          <td id="LC12" class="blob-code blob-code-inner js-file-line"><span class=pl-k>while</span> <span class=pl-c1>True</span>:</td>
+          <td id="LC12" class="blob-code blob-code-inner js-file-line">from sklearn.ensemble import RandomForestClassifier</td>
         </tr>
         <tr>
           <td id="L13" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="13"></td>
-          <td id="LC13" class="blob-code blob-code-inner js-file-line">    <span class=pl-s1>age</span><span class=pl-c1>=</span><span class=pl-en>int</span>(<span class=pl-en>input</span>(<span class=pl-s>&quot;Enter your age: &quot;</span>))</td>
+          <td id="LC13" class="blob-code blob-code-inner js-file-line">from sklearn.neighbors import KNeighborsClassifier</td>
         </tr>
         <tr>
           <td id="L14" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="14"></td>
-          <td id="LC14" class="blob-code blob-code-inner js-file-line">    <span class=pl-s1>sex</span><span class=pl-c1>=</span><span class=pl-en>int</span>(<span class=pl-en>input</span>(<span class=pl-s>&quot;Enter your sex(female=0/male=1): &quot;</span>))</td>
-        </tr>
-        <tr>
-          <td id="L15" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="15"></td>
-          <td id="LC15" class="blob-code blob-code-inner js-file-line">    <span class=pl-s1>cp</span><span class=pl-c1>=</span><span class=pl-en>int</span>(<span class=pl-en>input</span>())</td>
-        </tr>
-        <tr>
-          <td id="L16" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="16"></td>
-          <td id="LC16" class="blob-code blob-code-inner js-file-line">    <span class=pl-s1>trtbps</span><span class=pl-c1>=</span><span class=pl-en>int</span>(<span class=pl-en>input</span>())</td>
-        </tr>
-        <tr>
-          <td id="L17" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="17"></td>
-          <td id="LC17" class="blob-code blob-code-inner js-file-line">    <span class=pl-s1>chol</span><span class=pl-c1>=</span><span class=pl-en>int</span>(<span class=pl-en>input</span>())</td>
-        </tr>
-        <tr>
-          <td id="L18" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="18"></td>
-          <td id="LC18" class="blob-code blob-code-inner js-file-line">    <span class=pl-s1>fbs</span><span class=pl-c1>=</span><span class=pl-en>int</span>(<span class=pl-en>input</span>(<span class=pl-s>&quot;Is your fasting blood sugar &gt; 120 mg/dl(True=1/False=0)?&quot;</span>))</td>
-        </tr>
-        <tr>
-          <td id="L19" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="19"></td>
-          <td id="LC19" class="blob-code blob-code-inner js-file-line">    <span class=pl-s1>restecg</span><span class=pl-c1>=</span><span class=pl-en>int</span>(<span class=pl-en>input</span>())</td>
-        </tr>
-        <tr>
-          <td id="L20" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="20"></td>
-          <td id="LC20" class="blob-code blob-code-inner js-file-line">    <span class=pl-s1>thalachh</span><span class=pl-c1>=</span><span class=pl-en>int</span>(<span class=pl-en>input</span>(<span class=pl-s>&quot;maximum heart rate achieved&quot;</span>))</td>
-        </tr>
-        <tr>
-          <td id="L21" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="21"></td>
-          <td id="LC21" class="blob-code blob-code-inner js-file-line">    <span class=pl-s1>exng</span><span class=pl-c1>=</span><span class=pl-en>int</span>(<span class=pl-en>input</span>(<span class=pl-s>&quot;exercise induced angina(yes=1/no=0)&quot;</span>))</td>
-        </tr>
-        <tr>
-          <td id="L22" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="22"></td>
-          <td id="LC22" class="blob-code blob-code-inner js-file-line">    <span class=pl-s1>oldpeak</span><span class=pl-c1>=</span><span class=pl-en>float</span>(<span class=pl-en>input</span>())</td>
-        </tr>
-        <tr>
-          <td id="L23" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="23"></td>
-          <td id="LC23" class="blob-code blob-code-inner js-file-line">    <span class=pl-s1>slp</span><span class=pl-c1>=</span><span class=pl-en>int</span>(<span class=pl-en>input</span>())</td>
-        </tr>
-        <tr>
-          <td id="L24" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="24"></td>
-          <td id="LC24" class="blob-code blob-code-inner js-file-line">    <span class=pl-s1>caa</span><span class=pl-c1>=</span><span class=pl-en>int</span>(<span class=pl-en>input</span>())</td>
-        </tr>
-        <tr>
-          <td id="L25" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="25"></td>
-          <td id="LC25" class="blob-code blob-code-inner js-file-line">    <span class=pl-s1>thall</span><span class=pl-c1>=</span><span class=pl-en>int</span>(<span class=pl-en>input</span>(<span class=pl-s>&quot;thallium stress result&quot;</span>))</td>
-        </tr>
-        <tr>
-          <td id="L26" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="26"></td>
-          <td id="LC26" class="blob-code blob-code-inner js-file-line">    <span class=pl-s1>data</span><span class=pl-c1>=</span>[<span class=pl-s1>age</span>,<span class=pl-s1>sex</span>,<span class=pl-s1>cp</span>,<span class=pl-s1>trtbps</span>,<span class=pl-s1>chol</span>,<span class=pl-s1>fbs</span>,<span class=pl-s1>restecg</span>,<span class=pl-s1>thalachh</span>,<span class=pl-s1>exng</span>,<span class=pl-s1>oldpeak</span>,<span class=pl-s1>slp</span>,<span class=pl-s1>caa</span>,<span class=pl-s1>thall</span>]</td>
-        </tr>
-        <tr>
-          <td id="L27" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="27"></td>
-          <td id="LC27" class="blob-code blob-code-inner js-file-line">    <span class=pl-s1>writepen</span>.<span class=pl-en>writerow</span>(<span class=pl-s1>data</span>)</td>
-        </tr>
-        <tr>
-          <td id="L28" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="28"></td>
-          <td id="LC28" class="blob-code blob-code-inner js-file-line">    <span class=pl-s1>a</span><span class=pl-c1>=</span><span class=pl-en>input</span>(<span class=pl-s>&quot;Do you want to check other heart status(yes/no)?&quot;</span>)</td>
-        </tr>
-        <tr>
-          <td id="L29" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="29"></td>
-          <td id="LC29" class="blob-code blob-code-inner js-file-line">    <span class=pl-k>if</span> <span class=pl-s1>a</span><span class=pl-c1>==</span><span class=pl-s>&#39;yes&#39;</span>:</td>
-        </tr>
-        <tr>
-          <td id="L30" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="30"></td>
-          <td id="LC30" class="blob-code blob-code-inner js-file-line">        <span class=pl-k>continue</span></td>
-        </tr>
-        <tr>
-          <td id="L31" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="31"></td>
-          <td id="LC31" class="blob-code blob-code-inner js-file-line">    <span class=pl-k>else</span>:</td>
-        </tr>
-        <tr>
-          <td id="L32" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="32"></td>
-          <td id="LC32" class="blob-code blob-code-inner js-file-line">        <span class=pl-k>break</span></td>
-        </tr>
-        <tr>
-          <td id="L33" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="33"></td>
-          <td id="LC33" class="blob-code blob-code-inner js-file-line"><span class=pl-s1>fw</span>.<span class=pl-en>close</span>()</td>
-        </tr>
-        <tr>
-          <td id="L34" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="34"></td>
-          <td id="LC34" class="blob-code blob-code-inner js-file-line">
-</td>
-        </tr>
-        <tr>
-          <td id="L35" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="35"></td>
-          <td id="LC35" class="blob-code blob-code-inner js-file-line">
-</td>
-        </tr>
-        <tr>
-          <td id="L36" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="36"></td>
-          <td id="LC36" class="blob-code blob-code-inner js-file-line"><span class=pl-c># In[ ]:</span></td>
-        </tr>
-        <tr>
-          <td id="L37" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="37"></td>
-          <td id="LC37" class="blob-code blob-code-inner js-file-line">
-</td>
-        </tr>
-        <tr>
-          <td id="L38" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="38"></td>
-          <td id="LC38" class="blob-code blob-code-inner js-file-line">
-</td>
-        </tr>
-        <tr>
-          <td id="L39" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="39"></td>
-          <td id="LC39" class="blob-code blob-code-inner js-file-line">
-</td>
+          <td id="LC14" class="blob-code blob-code-inner js-file-line">from sklearn.svm import SVC</td>
         </tr>
   </table>
 </div>
@@ -3004,7 +2918,7 @@
             Copy permalink
           </clipboard-copy>
         </li>
-        <li><a class="dropdown-item js-update-url-with-hash" id="js-view-git-blame" role="menuitem" href="/VforViolet10/jupyter-notebook/blame/b30d9a40d0a2f35420adc57f5fcfef47890e7f42/Project.py">View git blame</a></li>
+        <li><a class="dropdown-item js-update-url-with-hash" id="js-view-git-blame" role="menuitem" href="/VforViolet10/jupyter-notebook/blame/4d57b6b81b89dc1c000d4aedca87a5b3bdd59480/code01">View git blame</a></li>
           <li><a class="dropdown-item" id="js-new-issue" role="menuitem" href="/VforViolet10/jupyter-notebook/issues/new">Reference in new issue</a></li>
       </ul>
     </details-menu>
@@ -3026,17 +2940,6 @@
 </button>
 </form>    </details-dialog>
   </details>
-
-    <div class="Popover anim-scale-in js-tagsearch-popover"
-     hidden
-     data-tagsearch-url="/VforViolet10/jupyter-notebook/find-definition"
-     data-tagsearch-ref="main"
-     data-tagsearch-code-nav-context="BLOB_VIEW">
-  <div class="Popover-message Popover-message--large Popover-message--top-left TagsearchPopover mt-1 mb-4 mx-auto Box color-shadow-large">
-    <div class="TagsearchPopover-content js-tagsearch-popover-content overflow-auto" style="will-change:transform;">
-    </div>
-  </div>
-</div>
 
 
 
